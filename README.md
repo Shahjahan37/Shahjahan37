@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahjahan37
-- 👀 I’m interested in ...Web Designing
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Web Designing, Software Development
+- 🌱 I’m currently learning ...React.JS
+- 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ...via email
 
 <!---
